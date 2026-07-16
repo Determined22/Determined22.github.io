@@ -13,13 +13,17 @@ author_profile: true
 
 **Generation**
 
+* **Interactor: Agentic RL oriented Iterative Creation for Ad Description Generation in Sponsored Search**  
+**Penghui Wei**, Jiayu Wu, Chao Ye, Zhi Guo, Shuanglong Li, Lin Liu  
+arXiv preprint arXiv:2606.15911. 
+
 * **IDEATION: Diversifying Ad Text Generation in Sponsored Search with Latent Diffusion**  
 **Penghui Wei**  
 **WWW ’25** Companion: Companion Proceedings of the ACM Web Conference 2025, Short Research Paper, pages 1394-1397. Sydney, NSW, Australia, April 28-May 2, 2025.  
 
 * **Perspective-driven Preference Optimization with Entropy Maximization for Diverse Argument Generation**  
 Yilin Cao, Ruike Zhang, **Penghui Wei**†, Qingchao Kong, Wenji Mao  
-**EMNLP ’25**, Findings: Findings of the Association for Computational Linguistics: EMNLP 2025, to appear. Suzhou, China, November 5–9, 2025.
+**EMNLP ’25**, Findings: Findings of the Association for Computational Linguistics: EMNLP 2025, pages 22479-22496. Suzhou, China, November 5–9, 2025.
 
 * **Efficient LLM-based Advertising via Model Compression and Parallel Verification**  
 Wenxin Dong, Chang Gao, Guanghui Yu, Xuewu Jiao, Mingqing Hu, Qiang Fu, Peng Xu, **Penghui Wei**, Hui Xu, Yue Xing, Shuanglong Li, Lin Liu  
